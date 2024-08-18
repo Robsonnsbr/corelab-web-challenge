@@ -2,7 +2,7 @@ O projeto foi desenvolvido em um repositório separado, mas todas as instruçõe
 
 link repository: [https://github.com/Robsonnsbr/todo-app](https://github.com/Robsonnsbr/todo-app)
 
-![todoImg](https://github.com/user-attachments/assets/bf88b523-7e9e-48b1-aa67-2d35c87d1ded)
+![todoImg](https://github.com/user-attachments/assets/b5a21ba0-ed63-4a3c-8021-dbff10514d34)
 
 # Projeto TodoApp Corelab
 
@@ -19,7 +19,7 @@ O **Todo App** é uma aplicação moderna de gerenciamento de tarefas, construí
 - **Zod:** Validação de dados.
 - **UUID:** Identificadores únicos no frontend.
 
-O projeto é hospedado no Vercel e está acessível [aqui](https://todo-app-ochre-omega.vercel.app/).
+O projeto é hospedado no Vercel e está acessível [aqui](https://todo-app-two-ecru-12.vercel.app/).
 
 ## Getting Started
 
@@ -48,16 +48,4 @@ This project uses next/font to automatically optimize and load Inter, a custom G
 
 Acknowledgements
 I am deeply grateful to the Corelab team for the opportunity you have provided me. Thank you for your support and trust.
-
-### Technologies Used
-
-- **Chakra UI**: Componentes React para interfaces acessíveis.
-- **AOS**: Animações de rolagem.
-- **Framer Motion**: Animações avançadas em React.
-- **MongoDB**: Banco de dados NoSQL.
-- **Next.js**: Framework React para SSR e geração de sites estáticos.
-- **Tailwind CSS**: Framework CSS utilitário.
-- **UUID**: Geração de identificadores únicos.
-- **Zod**: Validação de esquemas para TypeScript.
-
 Enjoy!!!
